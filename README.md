@@ -1,134 +1,136 @@
-<h1 align="center">Hi 👋, I'm Anand Gupta</h1>
+<div align="center">
 
-<h3 align="center">
-🚀 AI/ML Engineer | Computer Vision | Automation Engineer | Data Science
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4aa,100:6c63ff&height=200&section=header&text=Anand%20Gupta&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Computer%20Vision%20%7C%20Automation%20Systems&descAlignY=58&descColor=c8d6e5" />
 
-<p align="center">
-  <a href="https://github.com/anand738">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=AI%2FML+Engineer;Computer+Vision;Data Science;Building+Real-World+AI+Systems;Automation+%7C+Predictive+Maintenance&center=true&width=500&height=45">
-  </a>
-</p>
+</div>
 
+<div align="center">
 
-## 🔭 What I'm Working On
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=16&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Building+Real-World+AI+Systems+%F0%9F%A4%96;Computer+Vision+%7C+Deep+Learning+%7C+Predictive+ML;Automation+Engineer+%40+AM%2FNS+India;From+Notebooks+to+Production+%E2%80%94+At+Scale)](https://git.io/typing-svg)
 
-🤖 **Machine Learning Models** — Building predictive models using structured and real-world datasets  
+</div>
 
-📊 **Data Science & Analytics** — Performing data analysis, feature engineering, and visualization for actionable insights  
+---
 
-🧠 **Deep Learning & Computer Vision** — Working on image-based models for detection and classification tasks  
+## 👨‍💻 About Me
+
+```python
+anand = {
+    "name"       : "Anand Gupta",
+    "role"       : "Assistant Manager — Automation (Software & AI/ML)",
+    "company"    : "AM/NS India",
+    "education"  : "B.Tech ECE @ SVNIT (2020–2024)",
+    "location"   : "India 🇮🇳",
+    "focus"      : ["Computer Vision", "Predictive ML", "Deep Learning", "Automation"],
+    "motto"      : "I don't just build models for notebooks — I build AI that works in the real world."
+}
+```
+
+---
+
+## 🏢 Experience
+
+| Period | Role | Company |
+|--------|------|---------|
+| 07/2024 – Present | 🔵 Assistant Manager — Automation (Software & AI/ML) | **AM/NS India** |
+| 02/2024 – 05/2024 | 🟣 AI/ML Engineer Intern | **Griffyn Robotech** |
+| 08/2022 – 05/2023 | 🟢 Computer Vision Intern | **Surat Municipal Corporation (SMC)** |
 
 ---
 
 ## 🎓 Education
 
-🎓 **Sardar Vallabhbhai National Institute of Technology (SVNIT)**  
-Bachelor of Technology (B.Tech) – Electronics & Communication Engineering *(2020–2024)*  
+🎓 **Sardar Vallabhbhai National Institute of Technology (SVNIT)**
+> B.Tech — Electronics & Communication Engineering &nbsp;|&nbsp; 2020 – 2024
 
 ---
-
-## 💼 Experience
-
-💼 **AM/NS India** — Assistant Manager - Automation(Software & AI/ML Systems) *(07/2024 – Present)*  
-
-🤖 **Griffyn Robotech** — AI/ML Engineer Intern *(02/2024 – 05/2024)*  
-
-🌆 **Surat Municipal Corporation (SMC)** — Computer Vision Intern *(08/2022 – 05/2023)*  
-
----
-
-## 💬 Ask Me About
-
-`Python` · `Machine Learning` · `Data Science` · `Deep Learning` · `Computer Vision` · `SQL`
-
-
 
 ## 🛠️ Tech Stack
 
-<p align="center">
+**Languages**
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,sklearn,git,github,cpp,c" />
+![Python](https://img.shields.io/badge/Python-0a0e1a?style=for-the-badge&logo=python&logoColor=00d4aa)
+![C++](https://img.shields.io/badge/C++-0a0e1a?style=for-the-badge&logo=cplusplus&logoColor=00d4aa)
+![C](https://img.shields.io/badge/C-0a0e1a?style=for-the-badge&logo=c&logoColor=00d4aa)
+![SQL](https://img.shields.io/badge/SQL-0a0e1a?style=for-the-badge&logo=postgresql&logoColor=00d4aa)
 
-</p>
+**ML / DL Frameworks**
 
-<p align="center">
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0a0e1a?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
+![PyTorch](https://img.shields.io/badge/PyTorch-0a0e1a?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
+![OpenCV](https://img.shields.io/badge/OpenCV-0a0e1a?style=for-the-badge&logo=opencv&logoColor=5C3EE8)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0a0e1a?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
+![Keras](https://img.shields.io/badge/Keras-0a0e1a?style=for-the-badge&logo=keras&logoColor=D00000)
 
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white" />
-<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" />
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+**Data & Analysis**
 
-</p>
+![NumPy](https://img.shields.io/badge/NumPy-0a0e1a?style=for-the-badge&logo=numpy&logoColor=013243)
+![Pandas](https://img.shields.io/badge/Pandas-0a0e1a?style=for-the-badge&logo=pandas&logoColor=150458)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0a0e1a?style=for-the-badge&logo=python&logoColor=11557c)
+![Jupyter](https://img.shields.io/badge/Jupyter-0a0e1a?style=for-the-badge&logo=jupyter&logoColor=FA0F00)
+![Google Colab](https://img.shields.io/badge/Colab-0a0e1a?style=for-the-badge&logo=googlecolab&logoColor=F9AB00)
+
+**Tools & DevOps**
+
+![Git](https://img.shields.io/badge/Git-0a0e1a?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0a0e1a?style=for-the-badge&logo=github&logoColor=ffffff)
+![Linux](https://img.shields.io/badge/Linux-0a0e1a?style=for-the-badge&logo=linux&logoColor=FCC624)
 
 ---
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anand738&show_icons=true&theme=radical&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anand738&layout=compact&theme=radical&hide_border=true" height="170"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anand738&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0e1a&title_color=00d4aa&icon_color=6c63ff&text_color=c8d6e5" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anand738&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0e1a&title_color=00d4aa&text_color=c8d6e5" height="170"/>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anand738&theme=radical&hide_border=true" height="170"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anand738&theme=tokyonight&hide_border=true&background=0a0e1a&ring=00d4aa&fire=6c63ff&currStreakLabel=00d4aa" height="170"/>
+</div>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anand738&theme=radical" />
-</p>
-
----
-
-## 🏆 Achievements
-
-🥇 2nd Prize — Techniche, IIT Guwahati  
-🏅 Recognized by Surat Municipal Corporation  
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anand738&theme=tokyonight" />
+</div>
 
 ---
 
-## 🎯 Leadership
+## 🏆 Achievements & Leadership
 
-- Convener — Mindbend, SVNIT  
-- Manager — All India Inter NIT Tournament  
-- AI/ML Mentor — DRISHTI Club in SVNIT
+- 🥇 **2nd Prize** — Techniche, IIT Guwahati
+- 🏅 **Recognized** by Surat Municipal Corporation for computer vision contributions
+- 🎙️ **Convener** — Mindbend, SVNIT's annual technical festival
+- 🏆 **Manager** — All India Inter NIT Tournament
+- 🤖 **AI/ML Mentor** — DRISHTI Club, SVNIT
 
 ---
 
 ## 📜 Certifications
 
-- Python Programming — Great Learning  
-- Neural Networks — deeplearning.ai  
-- Data Science — Oracle  
-- Data Visualization — Jobaaj  
+| Certification | Issuer |
+|--------------|--------|
+| 🐍 Python Programming | Great Learning |
+| 🧠 Neural Networks & Deep Learning | deeplearning.ai |
+| 📊 Data Science | Oracle |
+| 📈 Data Visualization | Jobaaj |
 
 ---
 
 ## 📫 Connect With Me
 
-<p align="center">
-  <a href="mailto:anandgupta2613@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
-  </a>
-  <a href="https://linkedin.com/in/anand-gupta-b8a43b200">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="https://github.com/anand738">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
-  </a>
-  <a href="https://www.instagram.com/anandgupta.26/">
-    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram">
-  </a>
-</p>
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-anandgupta2613%40gmail.com-0a0e1a?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:anandgupta2613@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anand%20Gupta-0a0e1a?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/anand-gupta-b8a43b200)
+[![GitHub](https://img.shields.io/badge/GitHub-anand738-0a0e1a?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/anand738)
+[![Instagram](https://img.shields.io/badge/Instagram-anandgupta.26-0a0e1a?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/anandgupta.26/)
+
+</div>
 
 ---
 
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6c63ff,100:00d4aa&height=120&section=footer&text=Building%20AI%20that%20works%20in%20the%20real%20world&fontSize=16&fontColor=ffffff&fontAlignY=65" />
 
-## ⚡ Fun Fact
-
-I don’t just build models for notebooks —  
-I build AI systems that work in the **real world, at scale, in real-time**.
-
-⭐ *If you like my work, consider starring my repositories!*
+</div>
