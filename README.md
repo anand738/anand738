@@ -19,65 +19,56 @@
 🏭 Specialized in **Computer Vision & Predictive Maintenance**  
 📊 Turning real-world industrial data into **impactful AI solutions**
 
+
+## 🔭 What I'm Working On
+
+🤖 **Machine Learning Models** — Building predictive models using structured and real-world datasets  
+
+📊 **Data Science & Analytics** — Performing data analysis, feature engineering, and visualization for actionable insights  
+
+🧠 **Deep Learning & Computer Vision** — Working on image-based models for detection and classification tasks  
+
 ---
 
-## 🏆 Impact Highlights
+## 🎓 Education
 
-🚀 Reduced inspection time by **80%**  
-⚡ Predicted failures **2–3 hours early**  
-🚦 Reduced road accidents by **50%**  
-🏅 Recognized by **Commissioner of Surat**
+🎓 **Sardar Vallabhbhai National Institute of Technology (SVNIT)**  
+Bachelor of Technology (B.Tech) – Electronics & Communication Engineering *(2020–2024)*  
 
 ---
 
 ## 💼 Experience
 
-### 🏭 AM/NS India (2024–Present)
-- Built **real-time Surface Inspection System (OpenCV + CNN)**
-- Developed **Predictive Maintenance ML Model**
-- Optimized **SQL pipelines for large-scale data**
-- Maintained **C# simulation systems**
+💼 **AM/NS India** — Assistant Manager - Automation(Software & AI/ML Systems) *(07/2024 – Present)*  
+
+🤖 **Griffyn Robotech** — AI/ML Engineer Intern *(02/2024 – 05/2024)*  
+
+🌆 **Surat Municipal Corporation (SMC)** — Computer Vision Intern *(08/2022 – 05/2023)*  
 
 ---
 
-### 🤖 Griffyn Robotech (AI/ML Intern)
-- Automated logistics → **95% manual effort reduction**
-- Built **CNN vehicle detection system**
+## 💬 Ask Me About
 
----
+`Python` · `Machine Learning` · `Data Science` · `Deep Learning` · `Computer Vision` · `SQL`
 
-### 🌆 Surat Municipal Corporation
-- YOLO-based **stray cattle detection system**
-- Reduced accidents by **50%**
-- Improved response time by **40%**
 
----
-
-## 🚀 Featured Projects
-
-### 🤖 Warfare Assistance Robot
-AI-powered surveillance robot with YOLO  
-→ Reduced human risk by **70%**
-
----
-
-### 🏥 Medical AI – Bleeding Detection
-Deep learning for WCE diagnostics  
-→ Faster and more accurate detection
-
----
-
-### 🏠 Real Estate Prediction System
-End-to-end ML pipeline  
-→ **98% accuracy**
-
----
 
 ## 🛠️ Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,sklearn,sql,git,github,cpp,c" />
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,sklearn,git,github,cpp,c" />
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" />
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 
 </p>
 
