@@ -64,9 +64,9 @@
 
 ## 🎓 Education
 
-🎓 **Sardar Vallabhbhai National Institute of Technology (SVNIT)**  
-B.Tech — Electronics & Communication Engineering  
-2020 – 2024 · Surat, Gujarat, India  
+**Sardar Vallabhbhai National Institute of Technology (SVNIT)**  
+    B.Tech — Electronics & Communication Engineering  
+    2020 – 2024 · Surat, Gujarat, India  
 
 
 ## 📜 Certifications
