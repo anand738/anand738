@@ -61,15 +61,13 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
----
 
 ## 🎓 Education
 
-🎓 **Sardar Vallabhbhai National Institute of Technology (SVNIT)**
-**B.Tech — Electronics & Communication Engineering**
-*2020 – 2024 · Surat, Gujarat, India*
+🎓 **Sardar Vallabhbhai National Institute of Technology (SVNIT)**  
+B.Tech — Electronics & Communication Engineering  
+2020 – 2024 · Surat, Gujarat, India  
 
----
 
 ## 📜 Certifications
 
@@ -80,7 +78,6 @@
 | 📊 Data Science | Oracle |
 | 📈 Data Visualization | Jobaaj |
 
----
 
 ## 🏆 Achievements
 
@@ -90,7 +87,6 @@ Competed at one of India's most prestigious technical fests — Techniche at IIT
 🏅 **Recognized by Surat Municipal Corporation**
 Officially recognized for impactful real-world computer vision work deployed for the city of Surat.
 
----
 
 ## 🎯 Leadership
 
@@ -103,7 +99,6 @@ Coordinated the inter-NIT tournament across participating institutes nationwide.
 🤖 **AI/ML Mentor — DRISHTI Club, SVNIT**
 Mentored junior students in machine learning and computer vision concepts, guiding project development and skill building.
 
----
 
 ## 🔭 What I'm Working On
 
@@ -119,7 +114,6 @@ Designing and deploying image-based models for detection, classification, and re
 ⚙️ **Automation Systems**
 Integrating AI and software automation into production-grade industrial workflows at AM/NS India.
 
----
 
 ## 💬 Ask Me About
 
@@ -128,8 +122,6 @@ Integrating AI and software automation into production-grade industrial workflow
 ---
 
 ## 📊 GitHub Analytics
-
-
 
 <div align="center">
 
