@@ -1,8 +1,8 @@
 <div align="center">
 
-# `> Anand Gupta`
+#  Anand Gupta`
 
-### AI/ML Engineer · Computer Vision · Automation Systems
+### AI/ML Engineer · Computer Vision · Automation Engineer · Data Science
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Building+AI+systems+that+work+in+the+real+world;Machine+Learning+%7C+Computer+Vision+%7C+Deep+Learning;Automation+%7C+Predictive+Maintenance+%7C+Data+Science;Real-world+AI+at+scale%2C+in+real-time)](https://github.com/anand738)
 
@@ -23,55 +23,13 @@
 
 ---
 
-## 📊 Impact at a Glance
-
-<div align="center">
-
-| 🏭 Industry Experience | 🏢 Companies | 📜 Certifications | 🤖 Models Shipped |
-|:---:|:---:|:---:|:---:|
-| **1.5+ Years** | **3** | **4** | **∞** |
-
-</div>
-
----
-
 ## 💼 Experience
-
-```
-AM/NS India                           07/2024 – Present
-└── Assistant Manager – Automation (Software & AI/ML)
-
-Griffyn Robotech                      02/2024 – 05/2024
-└── AI/ML Engineer Intern
-
-Surat Municipal Corporation (SMC)     08/2022 – 05/2023
-└── Computer Vision Intern
-```
 
 ### 🏭 AM/NS India — Assistant Manager, Automation (Software & AI/ML) *(07/2024 – Present)*
 
-> Leading automation and AI/ML initiatives for industrial systems at scale. Building and deploying real-time predictive models and software automation pipelines for steel manufacturing operations.
-
-- Developing AI/ML-driven automation systems for industrial environments
-- Building predictive maintenance models on structured real-world sensor data
-- Integrating software and AI systems into production-grade plant operations
-- Bridging the gap between research-grade ML and deployable industrial solutions
-
 ### 🤖 Griffyn Robotech — AI/ML Engineer Intern *(02/2024 – 05/2024)*
 
-> Worked on robotics-integrated AI systems — combining perception, classification, and real-time decision-making.
-
-- Designed and trained deep learning models for robotic perception tasks
-- Implemented computer vision pipelines for object detection and classification
-- Collaborated on integrating AI modules into robotic hardware systems
-
 ### 🌆 Surat Municipal Corporation (SMC) — Computer Vision Intern *(08/2022 – 05/2023)*
-
-> Applied computer vision to urban infrastructure — recognized by the corporation for impactful contributions.
-
-- Built and deployed CV-based surveillance and monitoring solutions for the city
-- Worked on real-time video analytics pipelines for public safety use cases
-- Received official recognition from SMC for contributions to smart city initiatives
 
 ---
 
@@ -110,8 +68,6 @@ Surat Municipal Corporation (SMC)     08/2022 – 05/2023
 🎓 **Sardar Vallabhbhai National Institute of Technology (SVNIT)**
 **B.Tech — Electronics & Communication Engineering**
 *2020 – 2024 · Surat, Gujarat, India*
-
-> One of India's premier NITs — strong foundation in signal processing, embedded systems, and electronics, complemented by self-driven specialization in AI/ML and computer vision.
 
 ---
 
