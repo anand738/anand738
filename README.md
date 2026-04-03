@@ -1,23 +1,14 @@
 <h1 align="center">Hi 👋, I'm Anand Gupta</h1>
 
 <h3 align="center">
-🚀 AI/ML Engineer | Computer Vision | Industrial Automation
+🚀 AI/ML Engineer | Computer Vision | Automation Engineer | Data Science
 </h3>
 
 <p align="center">
   <a href="https://github.com/anand738">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=AI%2FML+Engineer;Computer+Vision+Specialist;Building+Real-World+AI+Systems;Automation+%7C+Predictive+Maintenance&center=true&width=500&height=45">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=AI%2FML+Engineer;Computer+Vision;Data Science;Building+Real-World+AI+Systems;Automation+%7C+Predictive+Maintenance&center=true&width=500&height=45">
   </a>
 </p>
-
----
-
-## 🧠 About Me
-
-💼 Assistant Manager – Automation @ AM/NS India  
-🤖 1.5+ years building **production-level ML systems**  
-🏭 Specialized in **Computer Vision & Predictive Maintenance**  
-📊 Turning real-world industrial data into **impactful AI solutions**
 
 
 ## 🔭 What I'm Working On
@@ -65,7 +56,6 @@ Bachelor of Technology (B.Tech) – Electronics & Communication Engineering *(20
 
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 <img src="https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white" />
 <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" />
 <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -102,7 +92,7 @@ Bachelor of Technology (B.Tech) – Electronics & Communication Engineering *(20
 
 - Convener — Mindbend, SVNIT  
 - Manager — All India Inter NIT Tournament  
-- AI/ML Mentor — DRISHTI Club  
+- AI/ML Mentor — DRISHTI Club in SVNIT
 
 ---
 
@@ -135,17 +125,10 @@ Bachelor of Technology (B.Tech) – Electronics & Communication Engineering *(20
 ---
 
 
-### 👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anand738&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
 
 ## ⚡ Fun Fact
 
-I build AI systems that don’t just sit in notebooks —  
-they run in **real factories, real cities, and real-time environments**.
-
----
+I don’t just build models for notebooks —  
+I build AI systems that work in the **real world, at scale, in real-time**.
 
 ⭐ *If you like my work, consider starring my repositories!*
