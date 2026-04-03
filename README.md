@@ -1,6 +1,6 @@
 <div align="center">
 
-#  Anand Gupta`
+#  Anand Gupta
 
 ### AI/ML Engineer · Computer Vision · Automation Engineer · Data Science
 
@@ -129,12 +129,7 @@ Integrating AI and software automation into production-grade industrial workflow
 
 ## 📊 GitHub Analytics
 
-<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=anand738&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0e1a&title_color=00d4aa&icon_color=6c63ff&text_color=8b99b5" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anand738&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0e1a&title_color=00d4aa&text_color=8b99b5" height="180"/>
-
-</div>
 
 <div align="center">
 
