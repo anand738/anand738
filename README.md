@@ -119,24 +119,6 @@ Integrating AI and software automation into production-grade industrial workflow
 
 `Python` · `Machine Learning` · `Deep Learning` · `Computer Vision` · `Data Science` · `SQL` · `TensorFlow` · `PyTorch` · `OpenCV` · `Predictive Maintenance` · `Industrial AI` · `Automation Systems`
 
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anand738&theme=tokyonight&hide_border=true&background=0a0e1a&ring=00d4aa&fire=ff6b6b&currStreakLabel=6c63ff" height="180"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anand738&theme=tokyonight" />
-
-</div>
-
----
-
 <div align="center">
 
 ```
